@@ -9,10 +9,27 @@ feel free to adapt and improve.
 
 =head1 STRUCTURE
 
-=head2  Chapter 1 - the basics
+=head2 Chapter 1 - Introduction
 
-Lexical conventions, literals, variables, scalars, arrays, hashes, basic
-operators, method and function calls, control flow.
+In this book we aim to teach you everything that's necessary for you to write programs with Perl6
+
+=head3 Chapter 1.1 - Lexical conventions
+
+=head3 Chapter 1.2 - Literals
+
+=head3 Chapter 1.3 - Variables
+
+=head3 Chapter 1.4 - Scalars
+
+=head3 Chapter 1.5 - Arrays
+
+=head3 Chapter 1.6 - Hashes
+
+=head3 Chapter 1.7 - Basic operators
+
+=head3 Chapter 1.8 - Methods and function calls
+
+=head3 Chapter 1.9 - Control flow
 
 (Add more basics here if you need them in later chapters).
 
@@ -21,21 +38,35 @@ operators, method and function calls, control flow.
 TODO: more about arrays, hashes, built-in functions and methods, operators,
 list quoting
 
-=head2 Chapter 2 - Operators, meta operators
+=head2 Chapter 2 - Operators
+
+=head3 Chapter 2.1 - Meta operators
 
 Done: Operators
 
 TODO: list some common operators. Meta-operators
 
-=head2 Chapter 3 - Subs and signatures,
+=head2 Chapter 3.0 - Subs and signatures
    
-=head2 Chapter 4 - multis
+=head2 Chapter 4.0 - Multis
 
-Typed based multi dispatch, narrowness, constraints, multiple arguments
+=head3 Chapter 4.1 - Typed based multi dispatch
 
-=head2 Chapter 5 - Objects and classed
+=head3 Chapter 4.2 - Narrowness
 
-classes, attributes, methods, construction
+=head3 Chapter 4.3 - Constraints
+
+=head3 Chapter 4.4 - Multiple arguments
+
+=head2 Chapter 5 - Objects and classes
+
+=head3 Chapter 5.1 - Classes
+
+=head3 Chapter 5.2 - Attributes
+
+=head3 Chapter 5.3 - Methods
+
+=head3 Chapter 5.4 - Construction
 
 TODO:
 
@@ -43,8 +74,19 @@ inheritance, BUILD submethods
 
 =head2 Chapter 6 - Regexes 
 
-Literals, quantifiers, captures, anchors, look-arounds, backtracking control,
-match objects
+=head3 Chapter 6.1 - Literals
+
+=head3 Chapter 6.2 - Quantifiers
+
+=head3 Chapter 6.3 - Captures
+
+=head3 Chapter 6.4 - Anchors
+
+=head3 Chapter 6.5 - Look-arounds
+
+=head3 Chapter 6.6 - Backtracking control
+
+=head3 Chapter 6.7 - Match objects
 
 TODO:
 
@@ -52,7 +94,13 @@ TODO:
 
 =head2 Chapter 7 - Grammars
 
-Subrules, recursion, inheritance, reduction methods
+=head3 Chapter 7.1 - Subrules
+
+=head3 Chapter 7.2 - Recursion
+
+=head3 Chapter 7.3 - Inheritance
+
+=head3 Chapter 7.4 - Reduction methods
 
 TODO: detailed explanation of the JSON reduction methods
 
