@@ -1,14 +1,15 @@
 PERL = perl
+BUILDDIR = build
 
 ifeq "$(PAPER)" ""
 	PAPER = $(shell paperconf)
 endif
 
 ifneq "$(TEST)" ""
-	BOOK = build/test.$(PAPER)
+	BOOK = $(BUILDDIR)/test.$(PAPER)
 	CHAPTERS = $(wildcard test/*.pod)
 else
-	BOOK = build/UsingPerl6.$(PAPER)
+	BOOK = $(BUILDDIR)/UsingPerl6.$(PAPER)
 	CHAPTERS = \
     src/preface.pod \
     src/basics.pod \
@@ -31,6 +32,7 @@ prepare: clean
 
 html: prepare $(CHAPTERS) bin/book-to-html
 	$(PERL) bin/book-to-html $(CHAPTERS) > $(BOOK).html
+	cp bin/style.css $(BUILDDIR)/style.css
 
 pdf: tex lib/Makefile
 	cd build && make -I ../lib -f ../lib/Makefile 

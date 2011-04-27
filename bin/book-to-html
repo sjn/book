@@ -5,6 +5,8 @@ use Pod::PseudoPod::HTML;
 for (@ARGV) {
     my $parser = Pod::PseudoPod::HTML->new();
     $parser->output_fh( *STDOUT );
+    $parser->add_css_tags(1);
+    $parser->add_body_tags(1);
     $parser->codes_in_verbatim(1);
     $parser->parse_file( $_ );
 }
