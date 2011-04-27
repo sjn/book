@@ -1,0 +1,26 @@
+=head1 NAME
+
+Outline goal - What do we wish to achieve with the outline?
+
+=head1 DESCRIPTION
+
+The outline has to function as a guide for the overarching narrative of the book. Here we intend to describe what we would like to achieve with this in detail.
+
+=head1 EXAMPLES TO LEARN FROM
+
+ * Structure and Interpretation of Computer Programs
+   * http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
+ * Real World Haskell
+   * http://book.realworldhaskell.org/read/
+ * How to Design Programs
+   * http://htdp.org/2003-09-26/Book/curriculum-Z-H-1.html 
+
+=head1 GOALS
+
+ * Have an outline that is both specific and non-committing
+   * The idea is to tell one story, but to allow the author(s) to tell it in different ways.
+   * DO NOT commit to a specific "tone of language", style, level of terseness or throroughness or anything else that dictates _how_ the story is told
+   * DO commit to a specific story or sequence of events or narrative
+ * Cover just the topics that are necessary in order to do something useful.
+
+
