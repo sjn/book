@@ -78,6 +78,7 @@ Cover just the topics that are necessary in order to do something useful.
      1 asking questions and storing answers in a file
      2 reading answers from file and summarise stuff.
      3 etc.
+ * different aspects all use the same blocks, but the content differs
  * try to use a common theme for programming excercises.
    * f.inst. a multiple choice exam system?
 
