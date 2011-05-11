@@ -8,29 +8,68 @@ The outline has to function as a guide for the overarching narrative of the book
 
 =head1 TERMINOLOGY
 
-We want to create a book with E<aspects>. This means that we're in fact writing a different E<kind> of book. Let's define a couple terms in order to describe what we're trying to do.
+We want to create a book with I<aspects>. This means that we're in fact writing a different I<kind> of book. Let's define a couple terms in order to describe what we're trying to do.
 
- * Outline - The rough/over-arching sequence of events or talking points or chapters in a book. A good outline should focus on E<when> in the story things get told.
- * Narrative - The story that binds the sequence of "events" in a book to a coherent whole. While the outline specifies E<what> goes into a book, the narrative spells out the rough story arc. A Narrative must not deviate from the Outline, just "flesh it out". A good outline should focus on E<what> the sequence of events in the outline are told.
- * Content - This is the actual text; the actual story, with details and all. The Content should not deviate from the Outline or the Narrative, but should rather "flesh out" the narrative with any necessary details. Good content focuses on E<how> the story is told within the limitations set by the outline and the narrative. 
- * Aspect - This is an alternative narrative and/or content, that follows the same outline as it's origin text. An aspect is a text that tells the overarching sequence of events in a E<different way>. The goal is to tell the same storyline but do it in another way that might help achieve some purpose, e.g. to only use short words so someone with dyslexia has an easier time reading the story, or to tell a story with focus on humour instead of just presenting the facts. A good aspect gets the points or "events" of a book across to the reader in a useful way that the origin text could not do.
+=over 4
+
+=item Outline
+
+The rough/over-arching sequence of events or talking points or chapters in a book. A good outline should focus on I<when> in the story things get told.
+
+=item Narrative
+
+The story that binds the sequence of "events" in a book to a coherent whole. While the outline specifies I<what> goes into a book, the narrative spells out the rough story arc. A Narrative must not deviate from the Outline, just "flesh it out". A good outline should focus on I<what> the sequence of events in the outline are told.
+
+=item Content
+
+This is the actual text; the actual story, with details and all. The Content should not deviate from the Outline or the Narrative, but should rather "flesh out" the narrative with any necessary details. Good content focuses on I<how> the story is told within the limitations set by the outline and the narrative. 
+
+=item Aspect
+
+This is an alternative narrative and/or content, that follows the same outline as it's origin text. An aspect is a text that tells the overarching sequence of events in a I<different way>. The goal is to tell the same storyline but do it in another way that might help achieve some purpose, e.g. to only use short words so someone with dyslexia has an easier time reading the story, or to tell a story with focus on humour instead of just presenting the facts. A good aspect gets the points or "events" of a book across to the reader in a useful way that the origin text could not do.
+
+=back
 
 =head1 EXAMPLES TO LEARN FROM
 
- * Structure and Interpretation of Computer Programs
-   * http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
- * Real World Haskell
-   * http://book.realworldhaskell.org/read/
- * How to Design Programs
-   * http://htdp.org/2003-09-26/Book/curriculum-Z-H-1.html 
+=over 4
+
+=item Structure and Interpretation of Computer Programs
+
+L<http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html>
+
+=item Real World Haskell
+
+L<http://book.realworldhaskell.org/read/>
+
+=item How to Design Programs
+
+L<http://htdp.org/2003-09-26/Book/curriculum-Z-H-1.html>
+
+=back
 
 =head1 GOALS
 
- * Have an outline that is both specific and non-committing
-   * The idea is to tell one story, but to allow the author(s) to tell it in different ways.
-   * DO NOT commit to a specific "tone of language", style, level of terseness or throroughness or anything else that dictates _how_ the story is told. This choice should be left to the author of a specific aspect.
-   * DO commit to a specific story or sequence of events or narrative
- * Cover just the topics that are necessary in order to do something useful.
+=over 4
+
+=item With the Outline
+
+Have an outline that is both specific and non-committing
+
+=item With the Narrative
+
+The idea is to tell one story, but to allow the author(s) to tell it in different ways.
+
+DO NOT commit to a specific "tone of language", style, level of terseness or throroughness or anything else that dictates _how_ the story is told. This choice should be left to the author of a specific aspect.
+
+DO commit to a specific story or sequence of events or narrative
+
+=item With the content
+ 
+Cover just the topics that are necessary in order to do something useful.
+ 
+=over
+
 
 =head1 NOTES
 
