@@ -32,4 +32,13 @@ We want to create a book with E<aspects>. This means that we're in fact writing 
    * DO commit to a specific story or sequence of events or narrative
  * Cover just the topics that are necessary in order to do something useful.
 
+=head1 NOTES
+
+ * book divided into blocks, each with a learning goal.
+   example:
+     1 asking questions and storing answers in a file
+     2 reading answers from file and summarise stuff.
+     3 etc.
+ * try to use a common theme for programming excercises.
+   * f.inst. a multiple choice exam system?
 
