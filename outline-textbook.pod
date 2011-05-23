@@ -1,0 +1,33 @@
+
+=head1 Simple questionnaire
+
+* variables
+* input/output
+* loops
+* if/elsif/else
+
+
+=head1 Storing and retrieving questions and answers
+
+* read questions from file
+* save answers to file
+
+
+=head1 Making a simple report
+
+* Summing results
+* Calculating average
+* Presenting a nice report
+
+
+=head1 Make the questionnaire into multiple choices
+
+
+* Storing timestamps so we can report trends
+*
+* Writing a module
+* 
+* Changing files, and recogize the value of a source code control system (git?)
+* Deployment (versioned modules, modules with author info)
+* 
+
