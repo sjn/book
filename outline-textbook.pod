@@ -1,16 +1,27 @@
 
+=head1 How to learn programming
+
+* Learn by doing
+* Experiment, fail, retry, succeed
+* Difficult words
+* Undoing mistakes
+* Testing your software
+* How to track down bugs
+
+
 =head1 Simple questionnaire
 
-* variables
-* input/output
-* loops
-* if/elsif/else
+* Keeping track of data (Variables)
+* Input and output
+* Repeating stuff (Loops)
+* Comparing things (Comparison)
+* Deciding what has to be done (Control structures)
 
 
 =head1 Storing and retrieving questions and answers
 
-* read questions from file
-* save answers to file
+* Reading questions from file
+* Storing answers to file
 
 
 =head1 Making a simple report
